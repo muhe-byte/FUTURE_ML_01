@@ -6,27 +6,42 @@ The project combines Time Series Forecasting with Business Intelligence to provi
 
 🛠️ Tech Stack
 Language: Python (Pandas, NumPy)
+
 Machine Learning: Facebook Prophet / ARIMA / Scikit-learn
+
 Data Visualization: Power BI Desktop
+
 Environment: Jupyter Notebook
 
 🚀 Key Features & Workflow
 Data Cleaning: Handled missing values, formatted dates, and aggregated transactional data into daily/weekly sales.
+
 Feature Engineering: Created seasonal features, including holiday flags (e.g., Christmas, Black Friday) and rolling averages to capture trends.
+
 Predictive Modeling: Built a time series model using Facebook Prophet to forecast sales for the next 30–90 days.
+
 Interactive Dashboard: Designed a Power BI dashboard featuring:
+
 Historical vs. Forecasted Sales trends.
+
 Product category performance breakdown.
+
 Key Performance Indicators (KPIs) like Total Predicted Revenue and Growth Rate.
 
 📈 Impact
 By accurately predicting sales spikes, businesses can:
+
 Optimize inventory levels to prevent stockouts.
+
 Plan marketing campaigns around predicted peak periods.
+
 Improve financial resource allocation based on projected revenue.
 
 📂 Repository Structure
 data/: Raw and processed datasets.
+
 notebooks/: Jupyter Notebook containing EDA and ML modeling.
+
 dashboard/: Power BI file (.pbix) and exported visuals.
+
 README.md: Project documentation.

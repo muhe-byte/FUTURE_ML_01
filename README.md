@@ -38,6 +38,7 @@ Plan marketing campaigns around predicted peak periods.
 Improve financial resource allocation based on projected revenue.
 
 📂 Repository Structure
+
 notebooks/: Jupyter Notebook containing EDA and ML modeling.
 
 Power_BI_Files/: Power BI file (.pbix) and exported visuals.
